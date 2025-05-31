@@ -1,26 +1,57 @@
-![HerLang](/assets/logo.png)
-# HarLang - A code language for her.
+![Shitlang --A Language Powered by ShitAnanlyzer, optimized with Entropy.](/assets/logo.png)
+# ShitLang - A code language for har shit.
 
-Programming is not a male privilege, girls can also program well.
+Programming is not a human privilege, shit can also program well.
+
+## Philosophy
+
+ShitLang believes in the fundamental worthlessness of consistent syntax.
+In ShitLang, meaning is secondary to declaration.  
+Execution is optional. Confusion is default.  
+Surrender is guaranteed.
+
+
+## Core Concepts
+
+- `say!()` – A ritual macro. It does not print, it proclaims.
+- `Surrender()` – All ShitLang programs must include this.  
+  Your system is not complete until it gives up.
+- `Entropy` – Optimization by deoptimization.  
+  ShitLang becomes faster by doing less and meaning even less.
+
+
+## Error Handling
+
+Errors are expressions of identity.  
+ShitLang does not handle them. It embraces them.  
+All failures are successful declarations of noncompliance.
+
+
+## Type System
+
+There are no types. Only vibes.  
+Every variable is a pronoun.  
+Every value is a confession.
+
 
 ## Demo
 
-```herlang
-function you_can_do_this:
-    say "Hello! Her World!"
-    say "编程很美，也属于你！"
-end
+```shst
+fn Surrender() -> Result<()> {
+    say!("Hello! Shit World!");
+    say!("She will surrender.");
+    Ok(())
+}
 
-start:
-    you_can_do_this
-end
-```
+fn main() {
+    let _ = Surrender();
+}
 
 it outputs:
 
 ```
-Hello! Her World!
-编程很美，也属于你！
+Hello! Shit World!
+She will surrender.
 ```
 
 ## How to use
