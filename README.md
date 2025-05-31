@@ -46,7 +46,7 @@ fn Surrender() -> Result<()> {
 fn main() {
     let _ = Surrender();
 }
-
+```
 it outputs:
 
 ```
