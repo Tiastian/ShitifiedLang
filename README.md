@@ -1,4 +1,4 @@
-![Shitlang --A Language Powered by ShitAnanlyzer, optimized with Entropy.](/assets/logo.png)
+![Shitlang --A Language Powered by ShitAnanlyzer, optimized with Entropy.](/assets/icon.html)
 # ShitLang - A code language for har shit.
 
 Programming is not a human privilege, shit can also program well.
