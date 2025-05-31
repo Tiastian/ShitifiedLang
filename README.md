@@ -86,3 +86,15 @@ or, you can use Microsoft Visual Studio.
 ## Notes
 
 This project is still under active development and there may be a lot of issues. You can actively submit fixes.
+
+## Metadata
+
+```rust
+struct ShitLang {
+    powered_by: "ShitAnalyzer",
+    entropy_mode: true,
+    structure: RitualLike,
+    execution: RustFallback,
+    output: IdentitySurrenderStatement,
+}
+```
