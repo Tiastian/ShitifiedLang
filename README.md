@@ -36,7 +36,7 @@ Every value is a confession.
 
 ## Demo
 
-```shst
+```shitl
 fn Surrender() -> Result<()> {
     say!("Hello! Shit World!");
     say!("She will surrender.");
