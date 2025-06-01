@@ -1,7 +1,7 @@
 ![Shitlang --A Language Powered by ShitAnanlyzer, optimized with Entropy.](/assets/shitlanglogo.png)
 # ShitLang - A code language for har shit.
 
-Programming is not a human privilege, shit can also program well.
+Programming is not a privilege of humanity, shit can also program well.
 
 ## Philosophy
 
