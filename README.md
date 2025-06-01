@@ -39,7 +39,7 @@ Every value is a confession.
 ```shitl
 fn Surrender() -> Result<()> {
     say!("Hello! Shit World!");
-    say!("She will surrender.");
+    say!("I surrender.");
     Ok(())
 }
 
@@ -51,7 +51,7 @@ it outputs:
 
 ```
 Hello! Shit World!
-She will surrender.
+I surrender.
 ```
 
 ## How to use it?
