@@ -54,34 +54,10 @@ Hello! Shit World!
 She will surrender.
 ```
 
-## How to use
+## How to use it
+Pray.
 
-```
-Usage: hcp in.herc out.cpp
-```
 
-and then you can use `g++` to build an executable file.
-
-```shell
-g++ out.cpp -o out
-```
-
-then you can run it!
-
-```shell
-./out
-```
-
-## How to build
-
-```shell
-mkdir build
-cd build
-cmake ..
-cmake --build . --config Release
-```
-
-or, you can use Microsoft Visual Studio.
 
 ## Notes
 
@@ -98,3 +74,12 @@ struct ShitLang {
     output: IdentitySurrenderStatement,
 }
 ```
+
+## License
+
+The Surrender License v1.0
+
+Permission is granted to use, modify, or destroy this language,
+provided that all contributors agree on one thing:
+
+**There is no meaning. Only merging.**
