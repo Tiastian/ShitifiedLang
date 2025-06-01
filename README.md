@@ -57,6 +57,13 @@ She will surrender.
 ## How to use it?
 Pray, and the program won't run.
 
+## Ritual Invocation
+
+To invoke a ShitLang program, stand in a dark room and whisper:
+
+```shell
+cargo run --features give_up
+
 ## Runtime Semantics
 
 ShitLang has no defined runtime.
