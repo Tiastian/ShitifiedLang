@@ -68,6 +68,13 @@ There is no stack. Only collapsing layers of denial.
 Functions may execute out of order, or not at all.
 This is not a bug. It is a surrender.
 
+## Non-Features
+
+- No IDE support. If your editor understands ShitLang, it has failed.
+- No tests. Life doesn’t come with tests either.
+- No debugging. Just vibes and breakdowns.
+- No async. You suffer synchronously.
+- No dependencies. Only co-dependencies.
 
 ## Contributing
 
