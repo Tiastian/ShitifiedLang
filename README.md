@@ -54,14 +54,32 @@ Hello! Shit World!
 She will surrender.
 ```
 
-## How to use it
-Pray.
+## How to use it?
+Pray, and the program won't run.
+
+## Runtime Semantics
+
+ShitLang has no defined runtime.
+Programs run only if they feel like it.
+
+There is no memory. Only traumatic flashbacks.
+There is no stack. Only collapsing layers of denial.
+
+Functions may execute out of order, or not at all.
+This is not a bug. It is a surrender.
 
 
+## Contributing
 
-## Notes
+ShitLang welcomes contributors willing to defile existing order.
 
-This project is still under active development and there may be a lot of issues. You can actively submit fixes.
+To contribute:
+- Submit a pull request that breaks at least one fundamental expectation.
+- Replace structure with performance anxiety.
+- Document nothing. If users understand your code, it has failed.
+
+Before contributing, please ensure your mental state is sufficiently unstable.
+
 
 ## Metadata
 
