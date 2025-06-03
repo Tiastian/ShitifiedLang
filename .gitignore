@@ -5,3 +5,7 @@ bin
 build
 *.exe
 *.pdb
+
+# Added by cargo
+
+/target
